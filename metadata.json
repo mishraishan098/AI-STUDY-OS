@@ -1,0 +1,6 @@
+{
+  "name": "AI Study OS",
+  "description": "AI-powered study operating system strictly tailored for Class 10 Maharashtra State Board (SSC) students with mandatory student authentication, state-wide peer leaderboard, AI tutor, planner, and spaced revision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
